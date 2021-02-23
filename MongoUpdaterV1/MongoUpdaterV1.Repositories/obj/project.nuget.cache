@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "42YxmG5t3rswLBpP4oL6bfqLCHziKXxN6SqZegjZFmGF3oUxfOtq+00xf8q9xlfd605GO8FDO39N9gIWWTb/JQ==",
+  "success": true,
+  "projectFilePath": "C:\\Personal\\updateMongoDatabase\\MongoUpdaterV1\\MongoUpdaterV1.Repositories\\MongoUpdaterV1.Repositories.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victor.scherer\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\victor.scherer\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

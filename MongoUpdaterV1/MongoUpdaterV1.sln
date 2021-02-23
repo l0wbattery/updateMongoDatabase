@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoUpdaterV1", "MongoUpdaterV1\MongoUpdaterV1.csproj", "{7BE68AB4-3908-4FC8-9224-11169C53692A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ConsoleApp", "ConsoleApp", "{1D62715E-F8D2-4E91-93E8-084BF6B04EFA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repositories", "Repositories", "{03D10E0C-49E4-49E6-A847-BB2C62C76CAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoUpdaterV1.Repositories", "MongoUpdaterV1.Repositories\MongoUpdaterV1.Repositories.csproj", "{FCB8395E-7DBD-4947-A797-10A5327187A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BE68AB4-3908-4FC8-9224-11169C53692A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BE68AB4-3908-4FC8-9224-11169C53692A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BE68AB4-3908-4FC8-9224-11169C53692A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BE68AB4-3908-4FC8-9224-11169C53692A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCB8395E-7DBD-4947-A797-10A5327187A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB8395E-7DBD-4947-A797-10A5327187A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB8395E-7DBD-4947-A797-10A5327187A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB8395E-7DBD-4947-A797-10A5327187A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7BE68AB4-3908-4FC8-9224-11169C53692A} = {1D62715E-F8D2-4E91-93E8-084BF6B04EFA}
+		{FCB8395E-7DBD-4947-A797-10A5327187A7} = {03D10E0C-49E4-49E6-A847-BB2C62C76CAF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D78ABACC-9B46-4063-BE98-BC9E4C1E96BB}
+	EndGlobalSection
+EndGlobal

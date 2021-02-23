@@ -1,0 +1,9 @@
+C:\Users\victor.scherer\Desktop\personal\updateMongoDatabase\MongoUpdaterV1\MongoUpdaterV1.Repositories\bin\Debug\netstandard2.0\MongoUpdaterV1.Repositories.deps.json
+C:\Users\victor.scherer\Desktop\personal\updateMongoDatabase\MongoUpdaterV1\MongoUpdaterV1.Repositories\bin\Debug\netstandard2.0\MongoUpdaterV1.Repositories.dll
+C:\Users\victor.scherer\Desktop\personal\updateMongoDatabase\MongoUpdaterV1\MongoUpdaterV1.Repositories\bin\Debug\netstandard2.0\MongoUpdaterV1.Repositories.pdb
+C:\Users\victor.scherer\Desktop\personal\updateMongoDatabase\MongoUpdaterV1\MongoUpdaterV1.Repositories\obj\Debug\netstandard2.0\MongoUpdaterV1.Repositories.csprojAssemblyReference.cache
+C:\Users\victor.scherer\Desktop\personal\updateMongoDatabase\MongoUpdaterV1\MongoUpdaterV1.Repositories\obj\Debug\netstandard2.0\MongoUpdaterV1.Repositories.AssemblyInfoInputs.cache
+C:\Users\victor.scherer\Desktop\personal\updateMongoDatabase\MongoUpdaterV1\MongoUpdaterV1.Repositories\obj\Debug\netstandard2.0\MongoUpdaterV1.Repositories.AssemblyInfo.cs
+C:\Users\victor.scherer\Desktop\personal\updateMongoDatabase\MongoUpdaterV1\MongoUpdaterV1.Repositories\obj\Debug\netstandard2.0\MongoUpdaterV1.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\victor.scherer\Desktop\personal\updateMongoDatabase\MongoUpdaterV1\MongoUpdaterV1.Repositories\obj\Debug\netstandard2.0\MongoUpdaterV1.Repositories.dll
+C:\Users\victor.scherer\Desktop\personal\updateMongoDatabase\MongoUpdaterV1\MongoUpdaterV1.Repositories\obj\Debug\netstandard2.0\MongoUpdaterV1.Repositories.pdb

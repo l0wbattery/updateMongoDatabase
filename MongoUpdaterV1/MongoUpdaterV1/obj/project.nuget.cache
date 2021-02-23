@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SzQ/dkhnnRqa+0V3mIQG8hlYcY2NJXc3e6chdmoyXYaCIhQc2YtHWTPlHgVSfd/+21exeRY/ZJ2NlZb5ElHBBg==",
+  "success": true,
+  "projectFilePath": "C:\\Personal\\updateMongoDatabase\\MongoUpdaterV1\\MongoUpdaterV1\\MongoUpdaterV1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victor.scherer\\.nuget\\packages\\libgit2sharp\\0.26.2\\libgit2sharp.0.26.2.nupkg.sha512",
+    "C:\\Users\\victor.scherer\\.nuget\\packages\\libgit2sharp.nativebinaries\\2.0.306\\libgit2sharp.nativebinaries.2.0.306.nupkg.sha512"
+  ],
+  "logs": []
+}
